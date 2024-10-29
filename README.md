@@ -128,6 +128,8 @@ Một hệ thống toàn diện với các chức năng chính như:
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+- biểu đồ hoạt động github
+- ![TienNHM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TienNHM&theme=dracula&custom_title=Theme+dracula)
 
 
 
