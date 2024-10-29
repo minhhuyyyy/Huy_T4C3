@@ -39,6 +39,7 @@ Một hệ thống toàn diện với các chức năng chính như:
 - **Ứng dụng Dự báo Thời tiết**: Ứng dụng web sử dụng **React** cung cấp dữ liệu thời tiết theo thời gian thực.
 - **Nguyên mẫu Website Thương mại Điện tử**: Nguyên mẫu thương mại điện tử sử dụng **Node.js**, **Express** và **MongoDB**.
 - **Hệ thống quản lý sự kiện**: Ứng dụng quản lý sự kiện cho các tổ chức.
+- 
 
 ---
 
